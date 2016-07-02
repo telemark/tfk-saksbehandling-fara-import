@@ -1,0 +1,199 @@
+{
+  "_id": "5776d5da10b11e0100b65f4d",
+  "skoleData": {
+    "id": "3880",
+    "name": "Vest-Telemark vidaregåande skule, avdeling Dalen",
+    "address": "Storvegen 195, 3880 Dalen",
+    "geocoded": {
+      "lat": "59.44657",
+      "lon": "7.98785"
+    }
+  },
+  "CALLBACK_STATUS_URL": "https://log.skoleskyss.t-fk.no/api/logs/5776d5da10b11e0100b65f4d",
+  "dsfData": {
+    "NAVN": "ENGE JONAS HUSEBY",
+    "NAVN-S": "ENGE",
+    "NAVN-M": "HUSEBY",
+    "NAVN-F": "JONAS",
+    "ADR": "GRENLANDSGATA 35 B",
+    "POSTN": "3912",
+    "POSTS": "PORSGRUNN",
+    "GARD": "",
+    "KOMNR": "0805",
+    "BRUK": "",
+    "FODT": "261186",
+    "PERS": "11111",
+    "SPES-KD": "0"
+  },
+  "korData": {
+    "Email": "jonas.enge@gmail.com",
+    "MobilePhone": "41514965",
+    "uid": "26118611111",
+    "logoutUrl": "https://selvbetjening.t-fk.no/logout"
+  },
+  "completedSteps": [
+    "",
+    "confirm",
+    "bosted",
+    "velgskole",
+    "velgklasse",
+    "grunnlag",
+    "busskort"
+  ],
+  "introOk": true,
+  "bosted": {
+    "stepName": "bosted",
+    "bosted": "folkeregistrert"
+  },
+  "bostedhybel": false,
+  "bosteddelt": false,
+  "velgskole": {
+    "stepName": "velgskole",
+    "skole": "3880"
+  },
+  "skoleadresse": false,
+  "velgstudieretning": false,
+  "velgklasse": {
+    "stepName": "velgklasse",
+    "klassetrinn": "Vg3"
+  },
+  "duplikatSoknad": false,
+  "grunnlag": {
+    "stepName": "grunnlag",
+    "grunnlag": "Avstand"
+  },
+  "soknaduendret": false,
+  "busskort": {
+    "stepName": "busskort",
+    "mottattBusskort": "nei"
+  },
+  "busskortnummer": false,
+  "see-dsf": {
+    "_id": "5776d5b86dbbd4f1ad932bef",
+    "key": "see-dsf",
+    "sessionId": "def2be7a-35ff-4b0d-8fab-91b9c3f2c913",
+    "data": {
+      "ID": "41056120",
+      "TITTEL": "0805-200/787",
+      "TITTEL2": "PORSGRUNN-200/787",
+      "TITTEL3": "200/787, PORSGRUNN",
+      "TITTEL4": "GRENLANDSGATA 35B, 3912 PORSGRUNN-200/787",
+      "NAVN": "0805-200/787",
+      "TILHOERIGHET": "PORSGRUNN, PORSGRUNN, TELEMARK",
+      "GARDSNR": "200",
+      "BRUKSNR": "787",
+      "FESTENR": "0",
+      "SEKSJONSNR": "0",
+      "KOMMUNENR": "0805",
+      "KOMMUNENAVN": "PORSGRUNN",
+      "VEGADRESSE": "GRENLANDSGATA 35B, 3912 PORSGRUNN",
+      "VEGADRESSE2": "GRENLANDSGATA 35B",
+      "LATITUDE": "6556388.88",
+      "LONGITUDE": "537875.59",
+      "FYLKESNR": "08",
+      "FYLKESNAVN": "TELEMARK",
+      "OBJEKTTYPE": "EIENDOM",
+      "KILDE": "EIENDOM",
+      "geocoded": {
+        "lat": 59.145026864,
+        "lon": 9.6620457592
+      }
+    }
+  },
+  "distance-see-dsf": {
+    "_id": "5776d5c46dbbd4f1ad932bf0",
+    "key": "distance-see-dsf",
+    "sessionId": "def2be7a-35ff-4b0d-8fab-91b9c3f2c913",
+    "data": {
+      "distance": "136,61 km",
+      "distanceValue": 136608,
+      "staticMapUrl": "https://goo.gl/zIYx6O"
+    }
+  },
+  "timeStamp": 1467405785893,
+  "errors": [],
+  "CALLBACK_STATUS_MESSAGE": "Svarbrev produsert",
+  "distribution": {
+    "_id": "5776d5da10b11e0100b65f4d",
+    "CALLBACK_STATUS_URL": "https://log.skoleskyss.t-fk.no/api/logs/5776d5da10b11e0100b65f4d",
+    "documentCreated": 1467405785893,
+    "documents": [
+      {
+        "title": "Søknad",
+        "type": "soknad",
+        "document": "test/data/distribution/f07a5d73-d572-4f10-a48d-d051223dc8a5.pdf"
+      }
+    ],
+    "documentTemplates": [
+      {
+        "data": {
+          "dato": "01.07.2016",
+          "datoSoknad": "01.07.2016",
+          "navn": "Jonas Huseby Enge",
+          "adresse": "GRENLANDSGATA 35 B",
+          "postnr": "3912",
+          "poststed": "PORSGRUNN",
+          "bakgrunn": "",
+          "sammendrag": "Personalia\nNavn: ENGE JONAS HUSEBY\nFødselsnummer: 26118611111\nFolkeregistrert adresse\nGRENLANDSGATA 35 B, 3912 PORSGRUNN\n\nKontaktinformasjon\nMobilnummer: 41514965\nEpostadresse: jonas.enge@gmail.com\n\nSkole\nVg3 Vest-Telemark vidaregåande skule, avdeling Dalen\n\nBosted i skoleperioden\nHjemme, på folkeregistrert bosted\nGRENLANDSGATA 35 B, 3912 PORSGRUNN\nBeregnet avstand til skole: 136,61 km\nBeregnet rute: https://goo.gl/zIYx6O\n\nGrunnlag for søknad: Avstand\n\nBusskort\nJeg har ikke mottatt busskort tidligere\n\nVilkår\nJeg godtar vilkårene for skoleskyss\n",
+          "navnSkole": "Vest-Telemark vidaregåande skule, avdeling Dalen",
+          "avstand": "136,61 km",
+          "skolear": "2015/2016"
+        },
+        "template": "/src/node_modules/tfk-saksbehandling-elev-skoleskyss-templates/templates/fs.manuell.behandling.docx"
+      }
+    ],
+    "sendCopyToGuardian": false,
+    "recipientPersonalIdNumber": "26118611111",
+    "recipientName": "ENGE JONAS HUSEBY",
+    "svarUtTitle": "Svar på søknad om skoleskyss",
+    "archive": {
+      "_id": "5776d5da10b11e0100b65f4d",
+      "title": "Foreløpig svar – bussøknad skoleskyss - 2015/2016 - Vest-Telemark vidaregåande skule, avdeling Dalen - ENGE JONAS HUSEBY",
+      "signOff": false,
+      "documentTitle": "Søknad",
+      "documentType": "Søknad",
+      "documentCategory": "Søknad",
+      "CALLBACK_STATUS_URL": "https://log.skoleskyss.t-fk.no/api/logs/5776d5da10b11e0100b65f4d",
+      "date": "01.07.2016",
+      "year": 2016,
+      "documentCreated": 1467405785893,
+      "person": {
+        "id": "26118611111",
+        "firstName": "JONAS",
+        "middleName": "HUSEBY",
+        "lastName": "ENGE",
+        "email": "41514965",
+        "phone": "jonas.enge@gmail.com",
+        "fullName": "ENGE JONAS HUSEBY"
+      },
+      "documents": []
+    }
+  },
+  "saksbehandlingsResultat": {
+    "innvilget": false,
+    "avslag": false,
+    "manuell": true
+  },
+  "archive": {
+    "_id": "5776d5da10b11e0100b65f4d",
+    "title": "Foreløpig svar – bussøknad skoleskyss - 2015/2016 - Vest-Telemark vidaregåande skule, avdeling Dalen - ENGE JONAS HUSEBY",
+    "signOff": false,
+    "documentTitle": "Søknad",
+    "documentType": "Søknad",
+    "documentCategory": "Søknad",
+    "CALLBACK_STATUS_URL": "https://log.skoleskyss.t-fk.no/api/logs/5776d5da10b11e0100b65f4d",
+    "date": "01.07.2016",
+    "year": 2016,
+    "documentCreated": 1467405785893,
+    "person": {
+      "id": "26118611111",
+      "firstName": "JONAS",
+      "middleName": "HUSEBY",
+      "lastName": "ENGE",
+      "email": "41514965",
+      "phone": "jonas.enge@gmail.com",
+      "fullName": "ENGE JONAS HUSEBY"
+    },
+    "documents": []
+  }
+}

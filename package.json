@@ -1,0 +1,47 @@
+{
+  "name": "tfk-saksbehandling-fara-import",
+  "version": "1.0.0",
+  "description": "Import av skoleskyssøknader i fara",
+  "license": "MIT",
+  "author": {
+    "name": "Jonas Enge",
+    "email": "jonas.enge@gmail.com",
+    "url": "https://github.com/maccyber"
+  },
+  "keywords": [
+    "Tfk",
+    "Telemark fylkeskommune",
+    "Saksbehandling",
+    "Skoleskyss",
+    "Fara"
+  ],
+  "bugs": {
+    "url": "https://github.com/telemark/tfk-saksbehandling-fara-import/issues"
+  },
+  "homepage": "https://github.com/telemark/tfk-saksbehandling-fara-import",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.4.7"
+  },
+  "scripts": {
+    "test": "standard && tap --reporter=spec test/**/*.js",
+    "coverage": "tap test/**/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
+    "start": "node index.js",
+    "setup": "npm install && node setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/telemark/tfk-saksbehandling-fara-import.git"
+  },
+  "devDependencies": {
+    "coveralls": "2.11.9",
+    "standard": "7.1.2",
+    "tap": "6.1.1"
+  },
+  "dependencies": {
+    "jsonwebtoken": "7.0.1",
+    "mississippi": "1.2.0",
+    "wreck": "8.0.0"
+  }
+}

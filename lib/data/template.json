@@ -1,0 +1,30 @@
+{
+  "dsfData": {
+    "NAVN": ""
+  },
+  "korData": {
+    "Email": "",
+    "MobilePhone": "",
+    "uid": ""
+  },
+  "see-dsf": {
+    "data": {
+      "VEGADRESSE": "",
+      "distance": "",
+      "staticMapUrl": ""
+    }
+  },
+  "skoleData": {
+    "name": ""
+  },
+  "velgklasse": {
+    "klassetrinn": ""
+  },
+  "busskort": {
+    "mottattBusskort": ""
+  },
+  "busskortnummer": "",
+  "duplikatSoknad": "",
+  "soknaduendret": "",
+  "timeStamp": ""
+}
