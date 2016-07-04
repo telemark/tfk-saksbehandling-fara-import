@@ -4,6 +4,7 @@ module.exports = function tfkSaksbehandlingFaraImport (item, callback) {
   const miss = require('mississippi')
   const getNextJob = require('./lib/get-next-job')
   const setupItem = require('./lib/setup-item')
+  const transportFilters = require('./lib/transport-filters')
   const addToLog = require('./lib/add-to-log')
   const sendStatusMessage = require('./lib/send-status-message')
   const saveJobDone = require('./lib/save-job-done')
@@ -38,6 +39,7 @@ module.exports = function tfkSaksbehandlingFaraImport (item, callback) {
     starter,
     getNextJob,
     setupItem,
+    transportFilters,
     addToLog,
     sendStatusMessage,
     saveJobDone,
