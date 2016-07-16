@@ -40,7 +40,7 @@
     "tap": "6.2.0"
   },
   "dependencies": {
-    "birthdate-from-id": "1.0.0",
+    "birthdate-from-id": "1.0.1",
     "jsonwebtoken": "7.1.6",
     "mississippi": "1.2.0",
     "tfk-saksbehandling-skoleskyss-fara": "4.0.3",
