@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "birthdate-from-id": "1.0.0",
-    "jsonwebtoken": "7.1.5",
+    "jsonwebtoken": "7.1.6",
     "mississippi": "1.2.0",
     "tfk-saksbehandling-skoleskyss-fara": "4.0.3",
     "tfk-saksbehandling-skoleskyss-nsb": "3.0.1",
