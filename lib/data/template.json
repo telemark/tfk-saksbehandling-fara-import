@@ -26,5 +26,21 @@
   "busskortnummer": "",
   "duplikatSoknad": "",
   "soknaduendret": "",
-  "timeStamp": ""
+  "timeStamp": "",
+  "bosteddelt": {
+    "ADR": "",
+    "POSTN": "",
+    "POSTS": "",
+    "GARD": "",
+    "BRUK": "",
+    "KOMNR": ""
+  },
+  "bostedhybel": {
+    "ADR": "",
+    "POSTN": "",
+    "POSTS": "",
+    "GARD": "",
+    "BRUK": "",
+    "KOMNR": ""
+  }
 }
