@@ -3,6 +3,7 @@
 module.exports = function tfkSaksbehandlingFaraImport (item, callback) {
   const miss = require('mississippi')
   const getNextJob = require('./lib/get-next-job')
+  const badApples = require('./lib/bad-apples')
   const setupItem = require('./lib/setup-item')
   const transportFilters = require('./lib/transport-filters')
   const addToLog = require('./lib/add-to-log')
@@ -38,6 +39,7 @@ module.exports = function tfkSaksbehandlingFaraImport (item, callback) {
   miss.pipe(
     starter,
     getNextJob,
+    badApples,
     setupItem,
     transportFilters,
     addToLog,
