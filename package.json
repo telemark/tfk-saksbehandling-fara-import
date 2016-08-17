@@ -37,11 +37,11 @@
   "devDependencies": {
     "coveralls": "2.11.12",
     "standard": "7.1.2",
-    "tap": "6.3.0"
+    "tap": "6.3.2"
   },
   "dependencies": {
-    "birthdate-from-id": "1.0.1",
-    "jsonwebtoken": "7.1.7",
+    "birthdate-from-id": "1.0.2",
+    "jsonwebtoken": "7.1.9",
     "mississippi": "1.2.0",
     "tfk-saksbehandling-skoleskyss-fara": "4.0.5",
     "tfk-saksbehandling-skoleskyss-nsb": "3.0.2",
