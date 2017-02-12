@@ -43,8 +43,8 @@
     "birthdate-from-id": "1.0.7",
     "jsonwebtoken": "7.2.1",
     "mississippi": "1.3.0",
+    "tfk-saksbehandling-skoleskyss-nsb": "3.0.10",
     "tfk-saksbehandling-skoleskyss-fara": "4.0.14",
-    "tfk-saksbehandling-skoleskyss-nsb": "3.0.8",
     "tfk-saksbehandling-skoleskyss-tbr": "6.0.9",
     "wreck": "10.0.0"
   }
