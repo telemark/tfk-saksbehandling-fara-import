@@ -35,7 +35,7 @@
     "url": "git://github.com/telemark/tfk-saksbehandling-fara-import.git"
   },
   "devDependencies": {
-    "coveralls": "2.11.16",
+    "coveralls": "2.13.0",
     "standard": "10.0.1",
     "tap": "10.3.1"
   },
