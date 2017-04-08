@@ -37,7 +37,7 @@
   "devDependencies": {
     "coveralls": "2.11.16",
     "standard": "10.0.1",
-    "tap": "10.3.0"
+    "tap": "10.3.1"
   },
   "dependencies": {
     "birthdate-from-id": "1.0.12",
@@ -46,6 +46,6 @@
     "tfk-saksbehandling-skoleskyss-nsb": "3.0.13",
     "tfk-saksbehandling-skoleskyss-tbr": "6.0.12",
     "tfk-saksbehandling-skoleskyss-fara": "4.0.17",
-    "wreck": "10.0.0"
+    "wreck": "11.0.0"
   }
 }
