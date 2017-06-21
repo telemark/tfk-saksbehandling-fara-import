@@ -37,7 +37,7 @@
   "devDependencies": {
     "coveralls": "2.13.1",
     "standard": "10.0.2",
-    "tap": "10.3.3"
+    "tap": "10.5.0"
   },
   "dependencies": {
     "birthdate-from-id": "1.0.12",
