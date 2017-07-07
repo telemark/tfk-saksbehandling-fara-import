@@ -1,6 +1,6 @@
 {
   "name": "tfk-saksbehandling-fara-import",
-  "version": "1.0.43",
+  "version": "1.0.44",
   "description": "Import av skoleskyssøknader i fara",
   "license": "MIT",
   "author": {
@@ -37,7 +37,7 @@
   "devDependencies": {
     "coveralls": "2.13.1",
     "standard": "10.0.2",
-    "tap": "10.7.0"
+    "tap": "10.5.2"
   },
   "dependencies": {
     "birthdate-from-id": "1.0.12",
